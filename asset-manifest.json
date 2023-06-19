@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PersonsListApp-test/static/css/main.859eea0e.css",
+    "main.js": "/PersonsListApp-test/static/js/main.5f57b8ba.js",
+    "static/js/787.e0ba87bc.chunk.js": "/PersonsListApp-test/static/js/787.e0ba87bc.chunk.js",
+    "index.html": "/PersonsListApp-test/index.html",
+    "main.859eea0e.css.map": "/PersonsListApp-test/static/css/main.859eea0e.css.map",
+    "main.5f57b8ba.js.map": "/PersonsListApp-test/static/js/main.5f57b8ba.js.map",
+    "787.e0ba87bc.chunk.js.map": "/PersonsListApp-test/static/js/787.e0ba87bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859eea0e.css",
+    "static/js/main.5f57b8ba.js"
+  ]
+}
